@@ -1,0 +1,11 @@
+
+train: ./bc_dataset/train/
+val: ./bc_dataset/val/
+test: ./bc_dataset/test/
+
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Plate']
