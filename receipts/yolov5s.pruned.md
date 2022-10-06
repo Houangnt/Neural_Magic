@@ -53,6 +53,6 @@ python train.py \
     --cfg ../models/yolov5s.yaml \
     --weights PRETRAINED_WEIGHTS \
     --data coco.yaml \
-    --hyp data/hyp.scratch.yaml \
+    --hyp data/hyp.lp.yaml \
     --recipe ../recipes/yolov5s.pruned.md \
 ```
